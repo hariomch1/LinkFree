@@ -1,0 +1,14 @@
+{
+  "name": "Hariom Chaudhary",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Tech enthusiast",
+  "avatar": "https://github.com/hariomch1.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/hariomch_twt",
+      "icon": "FaTwitter"
+    }
+  ]
+}
